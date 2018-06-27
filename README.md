@@ -1,4 +1,4 @@
-# Project Title
+# Fianl project: Datamining and Neural Network
 
 This repository contains all relevant files related to the final project of the course "Datamining & Neural network" offered at KU Leuven in 2018.
 
